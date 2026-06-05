@@ -1,0 +1,7 @@
+[package]
+name = "ternary-membrane"
+version = "0.1.0"
+edition = "2021"
+description = "Membrane transport dynamics in ternary — diffusion, osmosis, channels, and gradient flow"
+license = "MIT"
+[dependencies]
